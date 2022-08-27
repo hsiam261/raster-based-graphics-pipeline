@@ -1,0 +1,15 @@
+# build director
+build/ 
+
+# IDE
+.vim/
+
+#
+compile_commands.json
+
+
+#out files
+**/*.out
+**/*.o
+
+
